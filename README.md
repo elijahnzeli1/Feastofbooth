@@ -1,2 +1,2 @@
 # Feastofbooth
-For performing countdown of your prefered days
+For performing countdown of your prefered days.
